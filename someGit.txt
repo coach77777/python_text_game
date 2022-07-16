@@ -1,0 +1,8 @@
+git remote add origin https://github.com/coach77777/python_text_game.git
+git remote add origin https://github.com/coach77777/python_text_game.git
+
+git pull origin main
+
+git pull origin main --allow-unrelated-histories
+
+git push -f origin main
