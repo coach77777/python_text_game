@@ -8,3 +8,5 @@
     git push origin master
     
 /* sometimes we have to force push =>  git push --force origin master  */
+
+when file changes
