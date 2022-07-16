@@ -1,12 +1,10 @@
-git remote add origin https://github.com/coach77777/python_text_game.git
-git remote add origin https://github.com/coach77777/python_text_game.git
+/* go to the folder, open the terminal and type this commands */
 
-git pull origin main
-
-git pull origin main --allow-unrelated-histories
-
-git push -f origin main
-
- git add 'someGit.txt‘
-git commit -m 'someGit.txt‘
-git push origin main
+	git init
+    git add .      /* . => it is to add all the files */
+    git commit -m "first_commit"
+    git remote add origin https://github.com/yourusername/your-repo-name.git
+    git pull origin master
+    git push origin master
+    
+/* sometimes we have to force push =>  git push --force origin master  */
