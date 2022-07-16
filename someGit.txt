@@ -9,4 +9,4 @@
     
 /* sometimes we have to force push =>  git push --force origin master  */
 
-when file changes. We have to update!!!!
+when file changes. We have to update!!!! If we update again we push changes.
