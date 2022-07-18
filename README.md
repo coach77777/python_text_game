@@ -1,7 +1,7 @@
 # Python Text Game - Medusa
 
 
-    ## Hello! And Welcome to the Medusa Text Game.  
+##     ## Hello! And Welcome to the Medusa Text Game.  
        Your mission is to travel to the island named Sarpedon and Enter the temple of Medusa and behead her.   
        Medusa is so hideous that anyone who lays eyes on her will turn to stone.   
        As you travel through the temple you will encounter stone statues of warriors that have tried to behead Medusa before you.   
