@@ -1,7 +1,7 @@
 # Python Text Game - Medusa
 
 
-##     ## Hello! And Welcome to the Medusa Text Game.  
+## Hello! And Welcome to the Medusa Text Game.  
        Your mission is to travel to the island named Sarpedon and Enter the temple of Medusa and behead her.   
        Medusa is so hideous that anyone who lays eyes on her will turn to stone.   
        As you travel through the temple you will encounter stone statues of warriors that have tried to behead Medusa before you.   
@@ -17,23 +17,22 @@
                6.	A bow and arrow      
                7.	A Two-Headed Axe.      
           
-  
-        Play: 
+## Play: 
         You will start in the entrance way. You can travel North-East-West from there by entering a direction.      
         i.e., type North in the prompt. Once you leave the Entrance Way.      
         You travel from room to room gathering items into your inventory.      
           
-        Navigation: 
+## Navigation: 
         You enter in directions you want to travel, if you enter in a direction that is unavailable      
           the response will be : "You can’t go that way.      
            
-        To Win: 
+## To Win: 
         You must have all seven items in your inventory and then encounter Medusa and behead her.      
           
-        A Loss: 
+## A Loss: 
         You encounter Medusa without having all seven items in your inventory.      
           
-        Move commands: 
+## Move commands: 
         North, East, South or West   
         To pick up an item response is "Y"   
         Type Exit to quit game   
