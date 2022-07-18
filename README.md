@@ -16,7 +16,7 @@
                5.	A polished shield      
                6.	A bow and arrow      
                7.	A Two-Headed Axe.      
-          
+          <span style="color:#ff0; font-family: 'Arial'; font-size: 4em;">INSPIRATION DAY</span>
 ## Play: 
         You will start in the entrance way. You can travel North-East-West from there by entering a direction.      
         i.e., type North in the prompt. Once you leave the Entrance Way.      
