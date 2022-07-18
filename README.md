@@ -35,5 +35,5 @@
 ## Move commands: 
         North, East, South or West   
         To pick up an item response is "Y"   
-        Type Exit to quit game   
+        Type Exit to quit game.   
 
