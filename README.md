@@ -22,7 +22,8 @@ The items are:
 ## Play:
 
 You will start in the entrance way. You can travel North-East-West from there by entering a direction.      
- i.e., type North in the prompt. Once you leave the Entrance Way.      
+ i.e., type North in the prompt. Once you leave the Entrance Way.
+ You will be told what room you entered and the inventory or if you have encountered Medusa.
  You travel from room to room gathering items into your inventory.
  
  <img src="medussa_room_map.png" width="700">
@@ -38,7 +39,7 @@ You must have all seven items in your inventory and then encounter Medusa and be
           
 ## A Loss:
 
-You encounter Medusa without having all seven items in your inventory.      
+If you encounter Medusa without having all seven items in your inventory.      
           
 ## Move commands:
 
