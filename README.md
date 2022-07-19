@@ -25,7 +25,7 @@ You will start in the entrance way. You can travel North-East-West from there by
  i.e., type North in the prompt. Once you leave the Entrance Way.      
  You travel from room to room gathering items into your inventory.
  
- <img src="medussa_room_map.png" width="300">
+ <img src="medussa_room_map.png" width="700">
           
 ## Navigation:
 
