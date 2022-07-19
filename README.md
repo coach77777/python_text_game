@@ -23,7 +23,9 @@ The items are:
 
 You will start in the entrance way. You can travel North-East-West from there by entering a direction.      
  i.e., type North in the prompt. Once you leave the Entrance Way.      
- You travel from room to room gathering items into your inventory.      
+ You travel from room to room gathering items into your inventory.
+ 
+ ![](show_dbs.PNG)> 
           
 ## Navigation:
 
